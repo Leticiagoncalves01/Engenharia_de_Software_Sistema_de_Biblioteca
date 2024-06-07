@@ -5,7 +5,7 @@ Membros:
 
 Arthur Motta Cumming - https://github.com/ArthurM0tta/Trabalho-engenharia-de-software-/tree/main
 
-Natanael Henrique Encarnação Das Mandias -
+Natanael Henrique Encarnação Das Mandias - https://github.com/Natanaelhenriqu/Engenharia_de_Software_Sistema_de_Biblioteca
 
 Laís Medeiros Costa Gonçalves - https://github.com/LaisMedeiros02/Engenharia_de_Software_Sistema_de_Biblioteca
 
