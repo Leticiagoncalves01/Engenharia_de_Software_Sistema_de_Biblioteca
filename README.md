@@ -7,7 +7,7 @@ Arthur Motta Cumming - https://github.com/ArthurM0tta/Trabalho-engenharia-de-sof
 
 Natanael Henrique Encarnação Das Mandias -
 
-Laís Medeiros Costa Gonçalves -
+Laís Medeiros Costa Gonçalves - https://github.com/LaisMedeiros02/Engenharia_de_Software_Sistema_de_Biblioteca
 
 Letícia Medeiros Costa Gonçalves - https://github.com/Leticiagoncalves01/Engenharia_de_Software_Sistema_de_Biblioteca
 
